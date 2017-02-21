@@ -1,0 +1,39 @@
+ h1 {
+    font-family: "Pinyon Script", Monospace;
+    font-size: 60px;
+    font-weight: normal;
+    text-shadow: 4px 4px 4px #aaa;
+  }
+  h2 {
+    font-family: Comfortaa;
+    font-style: oblique;
+  }
+  #small-font {
+    font-family: Comfortaa;
+    font-style: oblique;
+  }
+  #title-font {
+    font-family: Comfortaa;
+    font-style: oblique;
+    font-size: 20px;
+  }
+#quote-font {
+    font-style: italic;
+  }
+#list-font {
+    font-family: Comfortaa;
+    font-style: italic;
+    font-size: 20px;  
+}
+  #self-port {
+    width: 25%; 
+  }
+  ul.a {
+    list-style-type: circle;
+}
+  ul {
+     padding: 5px;
+}
+  ul li {
+      margin-left: 100px;
+}
